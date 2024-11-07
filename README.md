@@ -1,2 +1,2 @@
-# dashboard-tradix
-Dashboard-tradix1
+# Dashboard-tradix
+Dashboard-tradix
